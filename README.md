@@ -10,3 +10,4 @@
 - Telegram: @notspeezy
 # Preview
 ![alt text](https://i.ibb.co/MfZXDgp/Tellonym-Checker-Preview.gif)
+![alt text](https://cdn.discordapp.com/attachments/969761804689494117/977956953961664512/unknown.png)
